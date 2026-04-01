@@ -6,8 +6,6 @@ Aplikacja mobilna stworzona w środowisku MIT App Inventor umożliwia śledzenie
 
 Dane zebrane podczas działania aplikacji są zapisywane lokalnie i mogą być przeglądane w formie dziennika
 
----
-
 ## Funkcjonalności
 
 * Śledzenie lokalizacji GPS
@@ -17,16 +15,12 @@ Dane zebrane podczas działania aplikacji są zapisywane lokalnie i mogą być p
 * Przeglądanie historii pomiarów (dziennik)
 * Rejestrowanie daty i czasu pomiaru
 
----
-
 ## Wykorzystane technologie
 
 * MIT App Inventor
 * LocationSensor (GPS)
 * Pedometer (akcelerometr)
 * TinyDB (lokalna baza danych)
-
----
 
 ## Instalacja
 
@@ -36,8 +30,6 @@ Dane zebrane podczas działania aplikacji są zapisywane lokalnie i mogą być p
 4. Włącz instalację z nieznanych źródeł (jeśli wymagane)
 5. Zainstaluj aplikację
 
----
-
 ## Instrukcja użytkowania
 
 1. Uruchom aplikację
@@ -46,8 +38,6 @@ Dane zebrane podczas działania aplikacji są zapisywane lokalnie i mogą być p
 4. Poruszaj się – aplikacja zlicza kroki i zapisuje lokalizację
 5. Naciśnij **Zatrzymaj pomiar**, aby zakończyć pomiar
 6. Sprawdź zapis w dzienniku
-
----
 
 ## Struktura zapisywanych danych
 
@@ -59,8 +49,6 @@ Każdy zapis zawiera:
 * długość geograficzną
 * liczbę kroków
 
----
-
 ## Wymagania systemowe
 
 * Android 8.0 lub nowszy
@@ -68,15 +56,11 @@ Każdy zapis zawiera:
 * Akcelerometr
 * Wolna pamięć na urządzeniu
 
----
-
 ## Uwagi
 
 * Dokładność GPS może zależeć od warunków otoczenia
 * Krokomierz może być mniej dokładny przy niestandardowych ruchach
 * Długotrwałe użycie GPS wpływa na zużycie baterii
-
----
 
 ## Pliki w repozytorium
 
